@@ -1,2 +1,3 @@
 # react-api
-react orqali test api bilan ishladik.
+
+reqres.in dan api Axios orqali userlarni olib keldik va ekranga chiqardik.
